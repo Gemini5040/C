@@ -1,0 +1,12 @@
+release/login.o
+release/main.o
+release/mymenu.o
+release/qtedit.o
+release/tongji.o
+release/topguanli.o
+release/qrc_images.o
+release/moc_login.o
+release/moc_mymenu.o
+release/moc_qtedit.o
+release/moc_tongji.o
+release/moc_topguanli.o

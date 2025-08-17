@@ -1,0 +1,12 @@
+debug/login.o
+debug/main.o
+debug/mymenu.o
+debug/qtedit.o
+debug/tongji.o
+debug/topguanli.o
+debug/qrc_images.o
+debug/moc_login.o
+debug/moc_mymenu.o
+debug/moc_qtedit.o
+debug/moc_tongji.o
+debug/moc_topguanli.o
